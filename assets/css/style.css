@@ -283,6 +283,7 @@ a.shop-now {
     border-right: 20px solid transparent;
     height: 0;
     width: 66px;
+    padding-right: 10px;
 }
 .arrow-left:hover{
     border-bottom: 60px solid #0ca8c9;
